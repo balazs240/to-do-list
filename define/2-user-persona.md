@@ -75,5 +75,3 @@ has a good home enviroment for school
 ## Core Characteristics Summary
 
 balazs does well but is a bad planner.bad at planning.high amount of school work causes him stress
-
-Jordan values simplicity, clarity, and structure but does not naturally create those systems independently.
