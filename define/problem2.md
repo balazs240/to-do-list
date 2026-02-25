@@ -17,4 +17,4 @@ joel is a grade 9 student who needs a more efficinet and consistent of planning 
 
 ## if then statement
 
-if joel had a app that would plan out his work for him in easy short way then he could not be stress about his work and would lead he to rarely forget his work
+if joel had a app that remind him to do his work and allow to have a list of things to do  for the week and separate his work into mangable bitsS then he could not be stress about his work and would lead he to rarely forget his work and allow to not feel overwhelmed by his work
