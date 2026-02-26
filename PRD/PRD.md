@@ -1,7 +1,7 @@
 # Product Requirements Document
 
 ## Product Overview
-**Product Name:** Student Planner (Working Title)  
+**Product Name:** Student Planner 
 **One-Sentence Description:** A smart academic scheduling system that breaks large assignments into manageable bits based on grade goals and schedules them around extracurricular activities.  
 **Positioning Statement:** For socially active student-athletes who balance heavy academic loads and sports, Student Planner is the only digital tool that makes the "cost of procrastination" visible while automatically structuring complex assignments, unlike static paper planners or generic task lists.
 
