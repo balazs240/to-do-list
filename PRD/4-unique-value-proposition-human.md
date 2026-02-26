@@ -5,4 +5,5 @@ For socially active, academically strong students balancing sports and school, o
 
 ## competitor analyis
 structured has a causal linaer plan allowing people to have simple easy daily routines. they have a ai feture that allows for tasks to be spilt into a plan. the ai can also make a daily routine for you.
+
 motion has a ai that helps you plan fast.
